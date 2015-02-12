@@ -1,0 +1,25 @@
+Adrian Libert - HW2 Question 1 Output
+
+PS C:\Users\alibert\Downloads> javac HW2Question1.java
+PS C:\Users\alibert\Downloads> java HW2Question1
+[*] Please enter the height of the triangle - INTEGER value only =>
+4
+
+
+    1
+   121
+  12321
+ 1234321
+PS C:\Users\alibert\Downloads> java HW2Question1
+[*] Please enter the height of the triangle - INTEGER value only =>
+7
+
+
+       1
+      121
+     12321
+    1234321
+   123454321
+  12345654321
+ 1234567654321
+PS C:\Users\alibert\Downloads> 
