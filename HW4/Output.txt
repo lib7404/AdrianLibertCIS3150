@@ -1,0 +1,25 @@
+Adrian Libert - HW4 Output
+
+
+Gaspar-2:HW4 alibert$ javac MyString.java
+Gaspar-2:HW4 alibert$ java MyString
+
+Test of getMyString (the original MyString) below:
+THE red Desk
+
+Test of charAt (the third position) below:
+E
+Test of substring (the 2nd to 7th positions) below:
+E red
+
+Test of valueOf (the 5th position) below:
+r
+Test of equals and toString (Note: they should not) below:
+The first variable is: THE red Desk
+The second variable is: Star
+Are they the same? false
+Test of toLowerCase below:
+The red desk
+Test of toUpperCase below:
+THE RED DEsK
+Gaspar-2:HW4 alibert$ 
